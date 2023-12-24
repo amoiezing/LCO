@@ -4,7 +4,7 @@
    wf_collect         = .false.,
    prefix             = 'lco', 
    pseudo_dir         = '../../pseudo/',
-   outdir             = '../../tmp/',
+   outdir             = '/tmp/',
 / 
 &system 
    ibrav              = 0,

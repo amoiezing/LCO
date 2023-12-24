@@ -2,8 +2,8 @@
    calculation        = 'nscf',
    restart_mode       = 'from_scratch',
    prefix             = 'lco', 
-   pseudo_dir         = '/mnt/home/sbeck/work/pseudo/gbrv_v1.5/',
-   outdir             = '/mnt/ceph/users/sbeck/QE_tmp/',
+   pseudo_dir         = '../../pseudo',
+   outdir             = '/tmp',
 / 
 &system 
    ibrav              = 0,

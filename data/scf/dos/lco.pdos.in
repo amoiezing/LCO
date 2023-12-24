@@ -1,6 +1,6 @@
 &projwfc
     prefix = 'lco',
-    outdir = '../../tmp/',
+    outdir = '/tmp/',
 !    Emin = 0.0,
 !    Emax = 20.0,
 !    degauss = 0.01,
